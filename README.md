@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wmhrdk
 - 👀 I’m interested in Robotics and Embedded Systems
-- 🌱 I’m currently learning ESP-IDF framework
+- 🌱 I’m currently learning ROS2
 
 <!---
 wmhrdk/wmhrdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
