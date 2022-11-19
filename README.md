@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmhrdk
-- 👀 I’m interested in Robotics and Embedded Systems
+- 👀 I’m interested in Robotics, Software Development and Embedded Systems
 - 🌱 I’m currently learning ROS2
 
 <!---
