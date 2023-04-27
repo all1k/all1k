@@ -1,5 +1,5 @@
 🤖 Wahyu Mahardika  
-**`Robotics Craftsman (Programmer / Hardware Designer / Embedded Systems)`**
+**`Robotics Craftsman (Programmer / Control Systems / Enjoyneer)`**
 
 I’m a Robotics Enthusiast. My works are mainly about embedded systems and robots. I have a bit obsession in writing code especially in robotics and embedded software. My primary programming language is C++ but I also know Python.
 
