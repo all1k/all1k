@@ -22,7 +22,7 @@ I’m a Robotics Enthusiast. I am also interested in EV, especially hydrofoils. 
 
 ### 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=all1k&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=all1k&theme=gruvbox-duo&border_radius=4.5)
 
 #
 
