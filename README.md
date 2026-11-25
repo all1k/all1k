@@ -1,4 +1,4 @@
-🤖 Wahyu Mahardika  
+🤖 Nur Wahyu Mahardika Dg Allik
 **`Craftsman (Programmer / Control Systems / Enjoyneer)`**
 
 I’m problem solver. Interested in EV, especially hydrofoils. My works revolve around real-time control systems robotics and electric hydrofoils. I have a bit obsession in writing C++ but I also know Python.
