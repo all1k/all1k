@@ -1,7 +1,7 @@
 🤖 Wahyu Mahardika  
-**`Robotics Craftsman (Programmer / Control Systems / Enjoyneer)`**
+**`Craftsman (Programmer / Control Systems / Enjoyneer)`**
 
-I’m a Robotics Enthusiast. I am also interested in EV, especially hydrofoils. My works revolve around real-time control systems robotics and elctric hydrofoils. I have a bit obsession in writing C++ but I also know Python.
+I’m problem solver. Interested in EV, especially hydrofoils. My works revolve around real-time control systems robotics and electric hydrofoils. I have a bit obsession in writing C++ but I also know Python.
 
 ### 🔧 Languages & Tools
 <img align="left" alt="Cpp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
